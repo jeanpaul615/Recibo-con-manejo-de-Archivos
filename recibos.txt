@@ -1,0 +1,4 @@
+R001	Juan	Bogota	2023	Compra	1200
+R002	Maria	Medellin	2024	Servicio	5000
+R003	Pedro	Cali	2024	Alquiler	15000
+R004	Paul	Dosquebradas	2003	Carro	2000
